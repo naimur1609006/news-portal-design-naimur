@@ -1,0 +1,43 @@
+
+@media (max-width: 946px) {
+    main {
+      flex-direction: column;
+      width: 100%;
+      align-items: center;
+    }
+    .one_section{
+      width: 100%;
+      max-width: 73%;
+      margin: 0 auto;
+    }
+
+    .one_section h1{
+        text-align: center;
+    }
+
+    .child_section{
+        flex-direction: column;
+    }
+
+    .banner_image h2{
+        text-align: center;
+    }
+
+    .child_section_one h2{
+        text-align: center;
+    }
+  }
+  @media (max-width: 500px) {
+    .child_section {
+      flex-direction: column;
+      padding: 10px 10px;
+    }
+
+    .one_section{
+        max-width:85%;
+    }
+
+    .one_section h1{
+        text-align: center;
+    }
+  }
