@@ -57,12 +57,12 @@ main {
   }
   .child_section_one h2 {
     font-size: 1rem;
-    padding-bottom: 1rem;
+    padding-bottom: 0rem;
     color: #111;
   }
   .know_section {
     background-color: rgb(182, 248, 211);
-    margin-top: 25px;
+    margin-top: 15px;
   }
   .know_section h3 {
     background-color: seagreen;
